@@ -25,7 +25,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 
 ![fans folio Text SMS Link](https://s19.postimg.org/p452j3fz7/fansfolio_smsapp.png)
 
-##### Create a Android Project
+##### Create Android Project (set name fansfolio_SMSAppLink)
 
 ##### Add permissions to AndroidManifest.xml
 
