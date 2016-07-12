@@ -25,13 +25,15 @@ And then in the other gradle file(may be your app gradle or your own module libr
 
 ![fans folio Text SMS Link](https://s19.postimg.org/p452j3fz7/fansfolio_smsapp.png)
 
-##### add permissions to AndroidManifest.xml
+##### Create a Android Project
+
+##### Add permissions to AndroidManifest.xml
 
 ```xml
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 ```
-##### Copy this code in to activity.xml
+##### Copy this code in to activity_main.xml
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -56,7 +58,6 @@ And then in the other gradle file(may be your app gradle or your own module libr
             android:text="SEND APP TO MOBILE"
             android:textColor="@android:color/black"
             android:textSize="20dip" />
-
 
         <ImageView
             android:layout_width="wrap_content"
@@ -88,7 +89,6 @@ And then in the other gradle file(may be your app gradle or your own module libr
             android:hint="Mobile Number"
             android:inputType="phone" />
 
-
         <Button
             android:id="@+id/btSend"
             android:layout_width="fill_parent"
@@ -110,7 +110,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
     </LinearLayout>
 </ScrollView>
 ```
-##### Copy this code in to MainActivity.xml
+##### Copy this code in to MainActivity.java
 
 ```java
 public class MainActivity extends AppCompatActivity {
