@@ -141,6 +141,15 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+## Apps using [fansfolio_SMSAppLink](https://myinnos.github.io/fansfolio_SMSAppLink/ "View Website - fansfolio_SMSAppLink")
+If you are using AppIntro in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/fansfolio_SMSAppLink/issues/new)!
+
+ * [Pawan Kalyan : PSPK Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.pawankalyan "Pawan Kalyan : PSPK Fans Adda")
+
+ * [Chiranjeevi : Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.chiru "Chiranjeevi : Fans Adda")
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/myinnos/fansfolio_SMSAppLink&title=fansfolio_SMSAppLink&language=&tags=github&category=software) 
+
 ## Contact
 #### Prabhakar Thota
 * Website: [myinnos.com](https://myinnos.in "Prabhakar Thota")
