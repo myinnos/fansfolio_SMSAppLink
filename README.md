@@ -1,4 +1,4 @@
-# fansfolio_SMSAppLink
+# [fansfolio_SMSAppLink](https://myinnos.github.io/fansfolio_SMSAppLink/ "View Website - fansfolio_SMSAppLink")
 
 fans folio is a free app to maintain folio for your idols(film stars, cricket stars etc..,). It's the easiest way to connect and talk about your idol. You can share anything about your idol and make him/her famous around the world.
 
