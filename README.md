@@ -148,8 +148,6 @@ If you are using AppIntro in your app and would like to be listed here, please l
 
  * [Chiranjeevi : Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.chiru "Chiranjeevi : Fans Adda")
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/myinnos/fansfolio_SMSAppLink&title=fansfolio_SMSAppLink&language=&tags=github&category=software) 
-
 ## Contact
 #### Prabhakar Thota
 * Website: [myinnos.com](https://myinnos.in "Prabhakar Thota")
