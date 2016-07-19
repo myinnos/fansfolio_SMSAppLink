@@ -12,6 +12,9 @@ android {
         targetSdkVersion 24
         versionCode 1
         versionName "1.0"
+
+        buildConfigField("String", "APP_KEY", APP_KEY)
+
     }
     buildTypes {
         release {
