@@ -1,8 +1,8 @@
 # [fansfolio_SMSAppLink](https://myinnos.github.io/fansfolio_SMSAppLink/ "View Website - fansfolio_SMSAppLink")
 
-[fans folio](http://l.fansfolio.com/github_desc_link "fans folio Official Website") is a free app to maintain folio for your idols(film stars, cricket stars etc..,). It's the easiest way to connect and talk about your idol. You can share anything about your idol and make him/her famous around the world.
+[fans folio](https://ff.app.link/gt_get_app "fans folio Official Website") is a free app to maintain folio for your idols(film stars, cricket stars etc..,). It's the easiest way to connect and talk about your idol. You can share anything about your idol and make him/her famous around the world.
 
-[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](http://app.fansfolio.com/G_Android)
+[![Get it on Google Play](https://raw.github.com/repat/README-template/master/googleplay.png)](https://ff.app.link/gt_get_app)
 
 Kindly use the following links to use this library:
 
@@ -147,6 +147,8 @@ If you are using AppIntro in your app and would like to be listed here, please l
  * [Pawan Kalyan : PSPK Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.pawankalyan "Pawan Kalyan : PSPK Fans Adda")
 
  * [Chiranjeevi : Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.chiru "Chiranjeevi : Fans Adda")
+ 
+ * [Niharika Konidela](https://play.google.com/store/apps/details?id=com.fansfolio.niharika "Niharika Konidela")
 
 ## Contact
 #### Prabhakar Thota
