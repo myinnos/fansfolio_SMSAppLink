@@ -142,7 +142,7 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## Apps using [fansfolio_SMSAppLink](https://myinnos.github.io/fansfolio_SMSAppLink/ "View Website - fansfolio_SMSAppLink")
-If you are using AppIntro in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/fansfolio_SMSAppLink/issues/new)!
+If you are using fansfolio_SMSAppLink in your app and would like to be listed here, please let us know by opening a [new issue](https://github.com/myinnos/fansfolio_SMSAppLink/issues/new)!
 
  * [Pawan Kalyan : PSPK Fans Adda](https://play.google.com/store/apps/details?id=com.myinnos.pawankalyan "Pawan Kalyan : PSPK Fans Adda")
 
