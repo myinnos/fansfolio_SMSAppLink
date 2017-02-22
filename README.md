@@ -23,7 +23,7 @@ And then in the other gradle file(may be your app gradle or your own module libr
 
 ## Example
 
-![fans folio Text SMS Link](https://s19.postimg.org/p452j3fz7/fansfolio_smsapp.png)
+![fans folio Text SMS Link](https://s19.postimg.org/t8gshavj7/fansfolio_smsapp.png)
 
 ##### Create Android Project (set name fansfolio_SMSAppLink)
 
