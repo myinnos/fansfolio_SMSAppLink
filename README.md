@@ -6,21 +6,20 @@
 
 Kindly use the following links to use this library:
 
-In build.gradle (Project)
-
-	allprojects {
-		repositories {
+```java
+allprojects {
+  repositories {
 			...
-			maven { url "https://jitpack.io" }
-		}
+		maven { url "https://jitpack.io" }
 	}
-	
+}
+```
 And then in the other gradle file(may be your app gradle or your own module library gradle, but never add in both of them to avoid conflict.)
-	
-	 dependencies {
-	        compile 'com.github.myinnos:fansfolio_SMSAppLink:v1.0'
-	        }
-
+```java
+dependencies {
+	compile 'com.github.myinnos:fansfolio_SMSAppLink:v1.0'
+}
+```
 ## Example
 
 ![fans folio Text SMS Link](https://s19.postimg.org/t8gshavj7/fansfolio_smsapp.png)
